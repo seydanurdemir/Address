@@ -1,2 +1,2 @@
-# Address
+# Addresses
 CRUD Operations in Quarkus
